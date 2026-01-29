@@ -1,4 +1,3 @@
-Bash Scripting Projects!!
 Description of what's inside:
 A collection of bash scripts created while learning Linux system administration and shell scripting. This repository contains various automation tools, monitoring scripts, and practice exercises.
 
